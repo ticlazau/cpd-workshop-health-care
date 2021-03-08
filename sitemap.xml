@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
+     <loc>https://ibm.github.io/cpd-workshop-health-care/</loc>
+     <lastmod>2021-03-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://ibm.github.io/cpd-workshop-health-care/pre-work/</loc>
+     <lastmod>2021-03-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://ibm.github.io/cpd-workshop-health-care/data-connection-and-virtualization/</loc>
+     <lastmod>2021-03-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://ibm.github.io/cpd-workshop-health-care/data-visualization-and-refinery/</loc>
+     <lastmod>2021-03-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://ibm.github.io/cpd-workshop-health-care/watson-knowledge-catalog-admin/</loc>
+     <lastmod>2021-03-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://ibm.github.io/cpd-workshop-health-care/machine-learning-autoai/</loc>
+     <lastmod>2021-03-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://ibm.github.io/cpd-workshop-health-care/openscale-fastpath/</loc>
+     <lastmod>2021-03-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://ibm.github.io/cpd-workshop-health-care/resources/</loc>
+     <lastmod>2021-03-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+</urlset>
